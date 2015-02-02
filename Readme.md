@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+## Creating my own basic JS Library
+# Homework Assignment 12 at Iron Yard
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
