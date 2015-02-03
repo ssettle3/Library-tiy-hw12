@@ -5,22 +5,53 @@
 // Custom Styles
 body {
   background: #fafafa;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Lato";
   color: #333;
+  width: 1000px;
+  margin: 0 auto;
 }
 
-.hero-unit {
-  margin: 50px auto 0 auto;
-  width: 600px;
-  font-size: 18px;
-  font-weight: 200;
-  line-height: 30px;
-  background-color: #eee;
-  border-radius: 6px;
-  padding: 60px;
-  h1 {
-    font-size: 60px;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
+// Header 
+.header-container{
+  height: 75px;
+  background-color: black;
+  border: 5px solid gold;
+  border-radius: 3px;
+  margin-top: 50px;
 }
+h1{
+  color: gold;
+  text-align: center;
+  margin: 0px;
+  padding-top: 10px;
+}
+
+// Container
+.outer-container{
+  border: 5px solid gold;
+  background-color: black;
+  height: 500px;
+  color: gold;
+  border-radius: 3px;
+    .gt{
+      float: left;
+      width: 50%;
+    }
+    .content{
+      float: right;
+      width: 50%;
+      margin-top: 50px;
+      line-height: 30px;
+      padding-right: 40px;
+    }
+    button{
+      margin-left: 40%;
+      padding: 10px;
+      font-family: Lato;
+      border: 2px solid gold;
+      background-color: black;
+      color: gold;
+      border-radius: 20px;
+    }
+} 
+
