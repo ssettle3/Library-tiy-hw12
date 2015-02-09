@@ -34,12 +34,16 @@ gt.coaches = [
 	},
 ]
 
+
+
+
 // Adding Numbers
 gt.add = function (a, b){
 	return (a + b);
 }
 
 // Coaches that have more than 40 wins 
+
 
 	gt.wins = gt.coaches.filter(function (coach){
 		if (coach.wins > 40){
