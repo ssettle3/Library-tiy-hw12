@@ -10,3 +10,9 @@
 
 ## Copyright / License
  * This project belongs to Stephen Settle
+
+## Documentation
+ * This library is an open ended project that will continued to be updated with functions and methods to make any scaffolded project that I do in the future easier.
+ * The library currently has some basic functions and constructors to help me familarize myself with the concepts.
+ * The functions and object can be manipulated in the console.
+ * This library can be imported just as easily as any other library or .js file.
